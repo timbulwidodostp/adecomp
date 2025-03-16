@@ -1,6 +1,8 @@
 # adecomp
 Shapley Decomposition by Components of a Welfare Measure Use adecomp With STATA 18
 
+https://www.youtube.com/watch?v=hg_Bm94WFl4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
